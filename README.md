@@ -16,9 +16,10 @@ nmap -p- -sVC -vv -oN nmap_scan --min-rate=5000 10.10.11.122
 
 ->  Port 443: HTTPS (nginx)
 
-## Added nunchucks.htb to the /etc/hosts file.
 
 <img width="1903" height="941" alt="image" src="https://github.com/user-attachments/assets/c9235f78-6d46-4e71-9c8b-352cbe857ace" />
+
+## Added nunchucks.htb to the /etc/hosts file.
 
 
 ## Web Enumeration
